@@ -1,0 +1,22 @@
+header {
+  border: 5px #1771cf solid;
+  display: flex;
+  align-items: center;
+}
+
+header h1 {
+  margin-left: 100px;
+}
+
+.card {
+  border: 5px #1771cf solid;
+  width: 200px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+.card p {
+  margin-left: 10%;
+}
